@@ -1,0 +1,567 @@
+.h1{
+   
+    height: 100%;
+    width: 100%;
+    color: white;
+    margin-top: -10px;
+    background-color:#000212;
+    overflow: hidden;
+   
+
+}
+
+.whip{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sv{
+   
+    margin-left: 6.6875rem;
+    font-family: "Abel";
+    margin-top: 14px;
+    font-size: 2rem;
+}
+
+.con{
+    margin-top: 1.25rem;
+    display: flex;
+    font-size: 10px;
+    justify-content: space-between;
+}
+
+.abou{
+    margin-right: 2.5rem;
+    font-weight: 500;
+    font-family: "Inter";
+    color: #D7D7D7;
+    font-style: normal;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+}
+
+.faq{
+    margin-right: 2.5rem;
+    font-weight: 500;
+    font-family: "Inter";
+    color: #D7D7D7;
+    font-style: normal;
+    line-height: 1.5rem;
+    font-size: 0.875rem;
+}
+
+.cre{
+    margin-right: 7.6875rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-family: "Inter";
+    color: #D7D7D7;
+    font-style: normal;
+    line-height: 1.5rem;
+}
+
+
+.inp{
+    width: 42.5rem;
+    font-size: 16px;
+    font-style: "Eczar";
+    color: white;
+    margin-top: 7.8125rem;
+    background: white;
+    margin-left: 23.75rem;
+    margin-right: 23.75rem;
+    height: 3.75rem;
+    border-radius: 1.25rem;
+}
+
+.hip{
+    width: 100%;
+    height: 42rem;
+   margin-top: 7.5623rem;
+   border: 2px solid;
+   position: relative;
+   overflow: hidden;
+   background:linear-gradient(180deg, #22222200, #7877c677)
+
+  
+ 
+
+}
+.arc{
+    height: 45rem;
+    width: 130%;
+    margin-left: -15rem;
+     background-color:#000212;
+    
+    position: relative;
+    bottom: -8rem;
+    border-radius: 90% 90% 0 0;
+
+}
+
+
+.ytmusic{
+    width: 18.7921875rem;
+    opacity: 0.9;
+    height: 4.8061875rem;
+    border-width: 0.5mm;
+    border-color: black;
+    border-radius: 3.125rem;
+    border-style: solid;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 36.8125rem;
+    background-image:linear-gradient(180deg, #010313 0%, rgba(49, 56, 71, 0.00) 100%);
+
+}
+
+
+.yti{
+    height: 2.46875rem;
+    width: 8.1875rem;
+}
+
+.stw{
+    width: 14.7921875rem;
+    margin-top: 100px;
+    opacity: 0.9;
+    height: 3.8061875rem;
+    border-width: 0.1mm;
+    border-color: transparent;
+    border-radius: 3.125rem;
+    border-style: solid;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 39.1125rem;
+    background-color: #7F61FF;
+}
+
+
+.amusic{
+    height: 4.806183125rem;
+    width: 18.791875rem;
+    margin-left: 15.0625rem;
+    margin-top: 6rem;
+
+}
+
+
+.smusic{
+        width: 18.7921875rem;
+        margin-top: -5.3125rem;
+        opacity: 0.9;
+        height: 4.8061875rem;
+        border-width: 0.1mm;
+        border-color: transparent;
+        border-radius: 3.125rem;
+        border-style: solid;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: 58.5625rem;
+        background-image:linear-gradient(180deg, #010313 0%, rgba(49, 56, 71, 0.00) 100%);
+        
+}
+
+
+
+.ytmusic:hover{
+    background: linear-gradient(180deg, #22222200, #7877C6);
+    opacity: 0.3;
+}
+
+.amusic:hover{
+    background: linear-gradient(180deg, #22222200, #7877C6);
+    opacity: 0.3;
+}
+
+.smusic:hover{
+    background: linear-gradient(180deg, #22222200, #7877C6);
+    opacity: 0.4;
+}
+
+.abou:hover{
+    font-size: 1.25rem;
+}
+
+.faq:hover{
+    font-size: 1.25rem;
+}
+
+.cre:hover{
+    font-size: 1.25rem;
+}
+
+.h2{
+    height: 54.4375rem;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.data{
+    margin-top: 133px;
+    width: 71.0625rem;
+    height: 35.35rem;
+}
+
+.big{
+    margin-left: 20px;
+}
+
+.case{
+    display: flex;
+    color: #7F61FF;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 30.707px;
+}
+
+.incase{
+    display: flex;
+width: 596px;
+height: 216px;
+flex-direction: column;
+justify-content: center;
+color: #000;
+font-family: Inter;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 80px;
+}
+
+.firstcase{
+    margin-top: 120px;
+
+}
+
+.secondcase{
+    margin-top: -50px;
+}
+
+.bfff{
+    
+    color: #282B39;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.lit{
+    border-radius: 20px;
+}
+
+.h3{
+    height: 134.5rem;
+    color: white;
+    width: 100%;
+    background: #000212;
+    background-image: linear-gradient(180deg,#010313, #424C5F00);
+}
+
+.ppp{
+    display: flex;
+}
+
+.fff{
+    
+    height: 35rem;
+    width: 61.6875rem;
+    margin-top: 10.375rem;
+    margin-left: 12.1875rem;
+}
+
+.bbb{
+    color: #7F61FF;
+    height: 5rem;
+font-family: Inter;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 80px;
+}
+
+
+.mmm{
+    margin-top: 4.0625rem;
+    height: 1px;
+    border-bottom: 0.5px solid;
+    padding-bottom: 30px;
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.lorem{
+    margin-top: 73px;
+    height: 1px;
+    border-bottom: 0.5px solid;
+    padding-bottom: 28px;
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+
+.ooo{
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.vvv{
+    margin-top: 73px;
+    height: 1px;
+    border-bottom: 0.5px solid;
+    padding-bottom: 28px;
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.aaa{
+    margin-top: 73px;
+    height: 1px;
+    border-bottom: 0.5px solid;
+    padding-bottom: 28px;
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.yyy{
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+}
+
+.pio{
+    color: #7F61FF;
+    margin-top: 9.875rem;
+    width: 15.4375rem;
+    height: 5rem;
+font-family: Inter;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: 80px;
+}
+
+.por{
+    width: 70.21263125rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: 21.75rem;
+    margin-top: 6.3125rem;
+}
+
+.blist{
+    width: 19.7375625rem;
+    height: 21.65rem;
+    border-radius: 22.292px;
+border: 0.619px solid rgba(80, 80, 80, 0.82);
+background: linear-gradient(180deg, #010313 14.5%, rgba(66, 76, 95, 0.00) 110.5%);
+}
+
+.blis{
+    width: 19.7375625rem;
+    height: 21.65rem;
+    border-radius: 22.292px;
+border: 0.619px solid rgba(80, 80, 80, 0.82);
+background: linear-gradient(180deg, #010313 14.5%, rgba(66, 76, 95, 0.00) 110.5%);
+}
+
+.blise{
+    
+        width: 19.7375625rem;
+        height: 21.65rem;
+        border-radius: 22.292px;
+    border: 0.619px solid rgba(80, 80, 80, 0.82);
+    background: linear-gradient(180deg, #010313 14.5%, rgba(66, 76, 95, 0.00) 110.5%);
+
+}
+
+
+.yenso{
+    margin-left: 3.26875rem;
+    margin-top: 1.431875rem;
+}
+
+.girl{
+    margin-left: 3.26875rem;
+    margin-top: 1.431875rem;
+}
+
+
+.him{
+    margin-left: 3.26875rem;
+    margin-top: 1.431875rem;
+}
+
+.fellow{
+    display: flex;
+width: 157.281px;
+height: 55.11px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+margin-left: 3.289375rem;
+margin-top: 1.253125rem;
+color: #FFF;
+font-family: Inter;
+font-size: 24.769px;
+font-style: normal;
+font-weight: 500;
+line-height: 27.246px
+}
+
+.beast{
+    display: flex;
+width: 157.281px;
+height: 55.11px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+margin-left: 3.289375rem;
+margin-top: 1.253125rem;
+color: #FFF;
+font-family: Inter;
+font-size: 24.769px;
+font-style: normal;
+font-weight: 500;
+line-height: 27.246px
+}
+
+.blessed{
+    display: flex;
+width: 157.281px;
+height: 55.11px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+margin-left: 3.289375rem;
+margin-top: 1.253125rem;
+color: #FFF;
+font-family: Inter;
+font-size: 24.769px;
+font-style: normal;
+font-weight: 500;
+line-height: 27.246px
+}
+
+.bypass{
+    color: #FFF;
+font-family: Inter;
+font-size: 12.384px;
+font-style: normal;
+font-weight: 400;
+line-height: 16.719px;
+width: 8.2433125rem;
+height: 1.0625rem;
+margin-left: 3.289375rem;
+margin-top: 0.348125rem;
+}
+
+.bypas{
+    color: #FFF;
+font-family: Inter;
+font-size: 12.384px;
+font-style: normal;
+font-weight: 400;
+line-height: 16.719px;
+width: 8.2433125rem;
+height: 1.0625rem;
+margin-left: 3.289375rem;
+margin-top: 0.348125rem;
+}
+
+.bypa{
+    color: #FFF;
+font-family: Inter;
+font-size: 12.384px;
+font-style: normal;
+font-weight: 400;
+line-height: 16.719px;
+width: 8.2433125rem;
+height: 1.0625rem;
+margin-left: 3.289375rem;
+margin-top: 0.348125rem;
+}
+
+
+.swit{
+    margin-top: 9.0625rem;
+    margin-left: -4rem;
+    width: 9.625rem;
+    height: 1.8449375rem;
+}
+
+
+.daata{
+    margin-top: 1.78rem;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    width: 15.625rem;
+    height: 1.5rem;
+    margin-left: -4rem;
+    color: #FFF;
+font-family: Jost;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.3px;
+}
+
+.line{
+    height: 1px;
+    margin-left: -4rem;
+    width: 77rem;
+    background: #92989F;
+    margin-top: 5rem;
+}
+
+.cake{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 34.375rem;
+    height: 1.5rem;
+
+    margin-left: -4rem;
+    margin-top: 1.75rem;
+    color: #92989F;
+font-family: Jost;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0.257px;
+}
+
+
+
